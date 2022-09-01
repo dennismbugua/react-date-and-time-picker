@@ -1,0 +1,28 @@
+{
+  "name": "react-date-time-picker",
+  "version": "1.0.0",
+  "description": "Ravi",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "foundation-datepicker": "1.5.6",
+    "foundation-sites": "6.4.4-rc1",
+    "jquery": "3.3.1",
+    "moment": "2.22.2",
+    "prop-types": "15.6.1",
+    "react": "16.3.2",
+    "react-bootstrap": "0.32.1",
+    "react-bootstrap-time-picker": "1.0.3",
+    "react-datepicker": "1.5.0",
+    "react-dom": "16.3.2",
+    "react-scripts": "1.1.4",
+    "unescape": "1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
